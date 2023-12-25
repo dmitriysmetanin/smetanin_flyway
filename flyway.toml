@@ -16,5 +16,9 @@ ignoreNewlinesInTextObjects = "off"
 [flyway]
 mixed = true
 outOfOrder = true
-locations = ["filesystem:migrations"]
+locations = [ "filesystem:migrations" ]
 validateMigrationNaming = true
+
+[environments.target1]
+url = "jdbc:postgresql://localhost:5432/db_2"
+schemas = [ "public" ]
