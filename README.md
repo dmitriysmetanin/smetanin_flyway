@@ -1,3 +1,3 @@
 # smetanin_flyway
  
-![image](https://github.com/dmitriysmetanin/smetanin_flyway/assets/88580214/6b3f2b90-40cb-47d9-a91c-291bbc4218c1)
+![db_2@localhost](https://github.com/dmitriysmetanin/smetanin_flyway/assets/88580214/349aa871-ca62-4642-acb3-a8edaee237bd)
